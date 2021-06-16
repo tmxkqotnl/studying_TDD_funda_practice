@@ -1,0 +1,34 @@
+[
+  {
+    "email": "eastHoon@naver.com",
+    "password": "asdok123asdc",
+    "name": {
+      "firstName": "Kim",
+      "lastName": "East"
+    }
+  },
+  {
+    "email": "eastH@naver.com",
+    "password": "asok123asdc",
+    "name": {
+      "firstName": "Km",
+      "lastName": "Est"
+    }
+  },
+  {
+    "email": "Hoon@naver.com",
+    "password": "asdok123asdc",
+    "name": {
+      "firstName": "Ki",
+      "lastName": "t"
+    }
+  },
+  {
+    "email": "stHo@naver.com",
+    "password": "aok123asdc",
+    "name": {
+      "firstName": "K",
+      "lastName": "E"
+    }
+  }
+]

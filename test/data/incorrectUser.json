@@ -1,0 +1,74 @@
+[
+  {
+    "password": "1234",
+    "name": {
+      "firstName": "abc",
+      "lastName": "cde"
+    }
+  },
+  {
+    "email": "abcd@nave",
+    "password": "1234",
+    "name": {
+      "firstName": "abc",
+      "lastName": "cde"
+    }
+  },
+  {
+    "email": "abcd",
+    "password": "1234",
+    "name": {
+      "firstName": "abc",
+      "lastName": "cde"
+    }
+  },
+  {
+    "email": "abcd@naver.com",
+    "name": {
+      "firstName": "abc",
+      "lastName": "cde"
+    }
+  },
+  {
+    "email": "abcd@naver.com",
+    "password": 1234,
+    "name": {
+      "firstName": "abc",
+      "lastName": "cde"
+    }
+  },
+  {
+    "email": "abcd@naver.com",
+    "password": "1234",
+    "name": {
+      "lastName": "cde"
+    }
+  },
+  {
+    "email": "abcd@naver.com",
+    "password": "1234",
+    "name": {
+      "firstName": "abc"
+    }
+  },
+  {
+    "email": "abcd@naver.com",
+    "password": "1234",
+    "name": {
+      "firstName": 1234,
+      "lastName": "cde"
+    }
+  },
+  {
+    "email": "abcd@naver.com",
+    "password": "1234",
+    "name": {
+      "firstName": "abc",
+      "lastName": 1234
+    }
+  },
+  {
+    "email": "abcd@naver.com",
+    "password": "1234"
+  }
+]
