@@ -3,7 +3,7 @@ import morgan from "morgan";
 import dotenv from "dotenv";
 import mongoose from "mongoose";
 import userRouter from "./routes/userRoute.js";
-import { Key } from "./config/Key.js";
+import { Key } from "../config/Key.js";
 const app = express();
 
 dotenv.config();

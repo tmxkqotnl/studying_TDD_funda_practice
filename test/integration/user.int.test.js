@@ -1,6 +1,6 @@
 import httpMocks from "node-mocks-http";
 import mongoose from "mongoose";
-import app, { test } from "../../server";
+import app, { test } from "../../src/server";
 import request from "supertest";
 import { Key } from "../../config/Key";
 import faker from "faker";
